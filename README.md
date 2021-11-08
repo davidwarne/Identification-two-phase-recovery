@@ -5,16 +5,18 @@ This repository contains useful R functions and scripts to process coral cover d
 
 David J. Warne (david.warne@qut.edu.au),
                 School of Mathematical Sciences, 
-                Science and Engineering Faculty, 
+                Faculty of Science, 
                 Queensland Univeristy of Technology 
                 
 Google Scholar: (https://scholar.google.com.au/citations?user=t8l-kuoAAAAJ&hl=en)
+
+Supported by [ARC Centre of Excellence for Mathematical and Statistical Frontiers](https://acems.org.au/home), and [QUT Centre for Data Science](https://research.qut.edu.au/qutcds/)
 
 ## Citation Information
 
 This code is provided as supplementary information to the paper,
 
-David J Warne, Kerryn A. Crossman, Wang Jin, Kerrie Mengersen, Kate Osborne, Matthew J. Simpson, Angus A. Thompson, Paul Wu, and Juan-C. Ortiz. Identification of two-phase recovery for interpretation of reef monitoring data. Journal of Applied Ecology, [(in press)](TBA). 
+David J Warne, Kerryn A. Crossman, Wang Jin, Kerrie Mengersen, Kate Osborne, Matthew J. Simpson, Angus A. Thompson, Paul Wu, and Juan-C. Ortiz. Identification of two-phase recovery for interpretation of reef monitoring data. Journal of Applied Ecology, (https://doi.org/f10.1111/1365-2664.14039. 
 
 ## Data Location
 
